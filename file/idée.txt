@@ -1,0 +1,6 @@
+1)Survival (1 room)
+2)3 types d'ennemie (Rush/ Tank/ Distance)
+3)Colories basé sur la jacket
+4)Maps type cimetière
+5)Incrémenter des bonus
+6)"Expérience"
